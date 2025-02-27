@@ -2,7 +2,7 @@
 
 Welcome to **KeshavFolio**, my personal portfolio website showcasing my work, skills, and projects. This website is designed to provide a glimpse into my experience as a **Web Developer & Freelancer**.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600?text=Portfolio+Website+Preview)
+![Portfolio Preview](https://github.com/user-attachments/assets/e92772da-6075-4921-9354-9a379812f579)
 
 ---
 
